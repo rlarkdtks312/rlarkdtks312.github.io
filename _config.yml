@@ -30,8 +30,6 @@ github:
 #twitter:
   #username: twitter_username            # change to your twitter username
 
-facebook:
-  username: 김강산
 social:
   name: Kang San Kim                  # it will shows as the copyright owner in Footer
   email: rkdtks3783@naver.com             # change to your email address
@@ -40,8 +38,8 @@ social:
     #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/rlarkdtks312       # change to your github homepage
     # Uncomment below to add more social links
-     - https://www.facebook.com/profile.php?id=100002929787336
-     - https://www.linkedin.com/in/username
+    # - https://www.facebook.com/profile.php?id=100002929787336
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -53,7 +51,7 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/seoul     #Shanghai
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
