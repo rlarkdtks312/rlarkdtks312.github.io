@@ -12,5 +12,5 @@ title: About
 >
 > [google](https://www.google.com/)
 >
-> [resume](https://rlarkdtks312.github.io/assets/resume/resume.odt)
+> [resume](https://rlarkdtks312.github.io/assets/resume/resume.pdf)
 
